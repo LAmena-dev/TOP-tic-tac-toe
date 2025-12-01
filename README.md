@@ -13,4 +13,4 @@ An [interactive Tic Tac Toe](https://www.theodinproject.com/lessons/node-path-ja
 * Win and Draw detection
 * Reset functionality for additional rounds
 <hr>
-Part of [The Odin Project](https://www.theodinproject.com/) curriculum
+Part of the <a href="https://www.theodinproject.com/">The Odin Project</a> curriculum
